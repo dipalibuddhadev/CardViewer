@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CardViewer</string>
+    <string name="welcome_to_cardviewer">Welcome to CardViewer</string>
+    <!--API Error-->
+    <string name="error">Error</string>
+    <string name="some_thing_went_wrong">Something went wrong.</string>
+    <!--API Error-->
+    <string name="card_number">Card Number: \u00A0</string>
+    <string name="expiry_date">Expiry Date: \u00A0</string>
+    <string name="card_type">Card Type: \u00A0</string>
+    <string name="card_list">Cards</string>
+</resources>

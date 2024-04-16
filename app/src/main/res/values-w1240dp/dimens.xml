@@ -1,0 +1,5 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <dimen name="fab_margin">200dp</dimen>
+    <dimen tools:override="true" name="design_navigation_icon_size" >22dp</dimen>
+    <dimen tools:override="true" name="design_navigation_icon_padding">10dp</dimen>
+</resources>
